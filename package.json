@@ -1,0 +1,19 @@
+{
+  "name": "apollo-client-schema-link",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eunsol <eunsol@medibloc.org>",
+  "license": "MIT",
+  "dependencies": {
+    "@graphql-tools/schema": "^6.0.17",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link-schema": "^1.2.5",
+    "graphql": "^15.3.0",
+    "graphql-tag": "^2.11.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
